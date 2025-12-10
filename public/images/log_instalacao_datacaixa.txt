@@ -1,0 +1,121 @@
+2025/12/09 22:10:32:614: Iniciado Aplicativo de Instalação
+2025/12/09 22:10:37:709: Carregando EULA do Usuário.
+2025/12/09 22:10:37:734: Fechando Aplicações.
+2025/12/09 22:10:37:742: Encerrando Aplicações.
+2025/12/09 22:10:37:823: Aplicações Encerradas.
+2025/12/09 22:10:43:759: Usuário aceitou o contrato EULA.
+2025/12/09 22:10:44:375: Atualizando Espaço no HD.
+2025/12/09 22:10:48:968: Já existe a pasta C:\Datacaixa no seu computador.
+
+Não é recomendado instalar o aplicativo na pasta já existente pois vai sobrepor todos os arquivos (inclusive o banco de dados).
+Se você continuar vamos renomear a pasta existente para: C:\Datacaixa_ANTIGO
+
+Deseja realmente instalar o aplicativo nessa pasta?
+2025/12/09 22:11:22:421: Extraindo Pacotes.
+2025/12/09 22:11:22:655: Pacotes Extraídos.
+2025/12/09 22:11:22:664: Extraindo Arquivos do Update.
+2025/12/09 22:11:27:946: Arquivos do Update Extraídos.
+2025/12/09 22:11:27:956: ArqPastaDll: C:\Datacaixa\msvcr120.dll
+2025/12/09 22:11:27:965: ArqInstallDll: C:\Users\Bruno M\Desktop\blog-popcorn\public\images\msvcr120.dll
+2025/12/09 22:11:27:974: Baixando nova versão.
+2025/12/09 22:11:28:47: Verificando link para download.
+2025/12/09 22:11:28:478: IdOpenSSLSetLibPath: C:\Datacaixa\
+2025/12/09 22:11:28:695: LoadOpenSSLLibrary: OK
+2025/12/09 22:11:37:454: Versão baixada com sucesso.
+2025/12/09 22:11:37:465: Extraindo Arquivos do Update2.
+2025/12/09 22:11:41:867: Arquivos do Update2 Extraídos.
+2025/12/09 22:11:41:896: Extraindo Banco de Dados Modelo 01.
+2025/12/09 22:11:41:907: Extraído Banco de Dados Modelo 01
+2025/12/09 22:11:41:917: Extraindo Banco de dados do Zip.
+2025/12/09 22:11:41:979: Banco de dados Extraído do Zip.
+2025/12/09 22:11:41:990: Extraindo Uninstall.
+2025/12/09 22:11:42:00: Extraído Uninstall.
+2025/12/09 22:11:42:08: Extraindo Uninstall Zip.
+2025/12/09 22:11:42:55: Uninstall Extraído do Zip.
+2025/12/09 22:11:42:66: Extraindo Outros Arquivos
+2025/12/09 22:11:42:79: Extraído Outros Arquivos..
+2025/12/09 22:11:42:88: Extraindo Outros Arquivos
+2025/12/09 22:11:43:356: Outros Arquivos Extraídos.
+2025/12/09 22:11:43:366: Apagando arquivos temporários
+2025/12/09 22:11:43:411: Arquivos temporários apagados
+2025/12/09 22:11:51:214: Usuário desabilitou instalar o Firebird.
+2025/12/09 22:11:51:653: Usuário desabilitou instalar o Firebird.
+2025/12/09 22:11:51:721: Usuário desabilitou Firewall para Firebird.
+2025/12/09 22:11:53:225: Reiniciando Firebird.
+2025/12/09 22:11:53:236: PastaFirebird: 
+2025/12/09 22:11:53:258: Não foi possível localizar o arquivo para reiniciar o Firebird!
+\bin\instsvc.exe
+
+Deseja continuar mesmo assim?
+2025/12/09 22:12:03:412: Firebird Reiniciado.
+2025/12/09 22:12:03:426: PastaBancoDados: C:\Datacaixa\BD\
+2025/12/09 22:12:03:439: PastaFirebird: 
+2025/12/09 22:12:03:450: bin\fbclient.dll
+2025/12/09 22:12:14:968: Usuário escolhou Estação.
+2025/12/09 22:12:14:985: Usuário escolhou Estação.
+2025/12/09 22:12:15:845: PastaBancoDados: C:\Datacaixa\BD\
+2025/12/09 22:12:15:856: Usuário escolhou Servidor.
+2025/12/09 22:12:17:112: PastaBancoDados: C:\Datacaixa\BD\
+2025/12/09 22:12:17:123: Usuário escolhou Servidor.
+2025/12/09 22:12:17:186: Testando DB.
+2025/12/09 22:12:17:197: DriverID=FB
+Protocol=TCPIP
+CharacterSet=NONE
+Server=localhost
+Port=3050
+Database=C:\Datacaixa\BD\BANCO.FDB
+User_Name=sysdba
+Password=masterkey
+
+2025/12/09 22:12:17:208: Testado DB.
+2025/12/09 22:12:17:217: Criando Datacaixa.ini e Gestao.ini
+2025/12/09 22:12:17:265: Criado Datacaixa.ini e Gestao.ini
+2025/12/09 22:12:17:273: Adicionando no Painel de Controle.
+2025/12/09 22:12:17:284: Adicionado no Painel de Controle.
+2025/12/09 22:12:17:294: Zerar MemTableDB.
+2025/12/09 22:12:17:302: Atualizando Lista com Modelos de DB.
+2025/12/09 22:12:17:345: Baixando arquiovo https://datacaixa.com.br/downloads/bd/db.json
+2025/12/09 22:12:17:356: IdOpenSSLSetLibPath: C:\Datacaixa\
+2025/12/09 22:12:17:539: LoadOpenSSLLibrary: OK
+2025/12/09 22:12:17:953: Baixado arquiovo https://datacaixa.com.br/downloads/bd/db.json
+2025/12/09 22:12:17:965: Lendo DB JSON.
+2025/12/09 22:12:17:983: Zerar MemTableDB.
+2025/12/09 22:12:17:993: Lido DB JSON.
+2025/12/09 22:12:18:03: Atualizando Lista com Modelos de DB.
+2025/12/09 22:12:28:577: Iniciando Comparação do DB.
+2025/12/09 22:12:28:589: Conectando no DB para Atualizar.
+2025/12/09 22:12:28:614: Não foi possível baixar ou atualizar o bancos de dados!
+
+Erro ao conectar-se ao Banco de Dados Master!
+2025/12/09 22:12:34:846: Baixado DB da Nuvem.
+2025/12/09 22:12:34:858: Baixando arquiovo https://datacaixa.com.br/downloads/bd/003.zip
+2025/12/09 22:12:34:868: IdOpenSSLSetLibPath: C:\Datacaixa\
+2025/12/09 22:12:34:997: LoadOpenSSLLibrary: OK
+2025/12/09 22:12:35:823: Baixado arquiovo https://datacaixa.com.br/downloads/bd/003.zip
+2025/12/09 22:12:35:877: Movendo banco de dados pelo Modelo.
+2025/12/09 22:12:35:889: Movido banco de dados pelo Modelo.
+2025/12/09 22:12:35:899: Baixado DB da Nuvem.
+2025/12/09 22:12:35:909: Iniciando Comparação do DB.
+2025/12/09 22:12:35:919: Conectando no DB para Atualizar.
+2025/12/09 22:12:35:946: Não foi possível baixar ou atualizar o bancos de dados!
+
+Erro ao conectar-se ao Banco de Dados Master!
+2025/12/09 22:12:46:29: Baixado DB da Nuvem.
+2025/12/09 22:12:46:41: Baixando arquiovo https://datacaixa.com.br/downloads/bd/003.zip
+2025/12/09 22:12:46:52: IdOpenSSLSetLibPath: C:\Datacaixa\
+2025/12/09 22:12:46:180: LoadOpenSSLLibrary: OK
+2025/12/09 22:12:47:00: Baixado arquiovo https://datacaixa.com.br/downloads/bd/003.zip
+2025/12/09 22:12:47:69: Movendo banco de dados pelo Modelo.
+2025/12/09 22:12:47:92: Não foi possível baixar ou atualizar o bancos de dados!
+
+Não foi possível renomear o arquivo: 
+Banco: C:\Datacaixa\BD\BANCO.FDB
+Para: C:\Datacaixa\BD\BANCO_ANTIGO.FDB
+
+The specified file already exists
+2025/12/09 22:12:51:353: Iniciando Comparação do DB.
+2025/12/09 22:12:51:367: Conectando no DB para Atualizar.
+2025/12/09 22:12:51:392: Não foi possível baixar ou atualizar o bancos de dados!
+
+Erro ao conectar-se ao Banco de Dados Master!
+2025/12/09 22:12:54:61: Usuário Clicou para Cancelar a Instalação.
